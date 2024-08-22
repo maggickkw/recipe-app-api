@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3.13
+FROM python:3.11-alpine3.20
 LABEL maintainer="Wilberforce Sedem Haibor"
 
 ENV PYTHONUNBUFFERED 1
